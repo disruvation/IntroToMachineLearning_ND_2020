@@ -4,6 +4,8 @@ I participated in the course in Q2/2020.
 
 Projects:
 
-2. Finding Donors for CharityML
-3. Image Classifier
-4. Identify Customer Segments
+- Finding Donors for CharityML
+ - This project deals with supervised learning, based on the python package scikit-learn
+- Image Classifier
+ - The second project of the course is about image classification using deep learning, bsaed on the python package PyTorch
+- Identify Customer Segments
